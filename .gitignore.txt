@@ -1,0 +1,5 @@
+*.prefs
+
+*.settings
+*.classpath
+*test-output
